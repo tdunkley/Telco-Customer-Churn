@@ -7,7 +7,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/tdunkley/module-4-project?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/tdunkley?style=social)
 
-Clustering of NBA Players is a project that attempts to group players of similar abilities into performance buckets. 29 Per Game attrbiutes (Field Goal Attempts Per Game, Field Goal Percentage, etc.) and 26 Advanced attributes (Player Efficiency Rating, True Shooting Percentage, etc) were web scraped from https://www.basketball-reference.com. In addition, several player awards lists were also scraped to contribute to the analysis, including NBA Most Valuable Player, NBA Rookie of the Year and NBA Defensive Player of the Year.
+Telco Customer Churn is a project that attempts to group players of similar abilities into performance buckets. 29 Per Game attrbiutes (Field Goal Attempts Per Game, Field Goal Percentage, etc.) and 26 Advanced attributes (Player Efficiency Rating, True Shooting Percentage, etc) were web scraped from https://www.basketball-reference.com. In addition, several player awards lists were also scraped to contribute to the analysis, including NBA Most Valuable Player, NBA Rookie of the Year and NBA Defensive Player of the Year.
 
 
 ## Prerequisites
@@ -18,9 +18,9 @@ Before you begin, ensure you have met the following requirements:
 * You have a Windows or Mac machine.
 
 
-## Installing Clustering of NBA Players
+## Installing Telco Customer Churn
 
-To install Clustering of NBA Players, follow these steps:
+To install Telco Customer Churn, follow these steps:
 
 Linux and macOS:
 
@@ -31,16 +31,16 @@ Windows:
 **Download** *Git* from [Git for Windows](https://gitforwindows.org) and **install it**.
 
 
-## Using Clustering of NBA Players
+## Using Telco Customer Churn
 
-To use Clustering of NBA Players, follow the appropriate instructions here:
+To use Telco Customer Churn, follow the appropriate instructions here:
 
 [Git Commands](https://education.github.com/git-cheat-sheet-education.pdf)
 
 
-## Contributing to Clustering of NBA Players
+## Contributing to Telco Customer Churn
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
-To contribute to Clustering of NBA Players, follow these steps:
+To contribute to Telco Customer Churn, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
