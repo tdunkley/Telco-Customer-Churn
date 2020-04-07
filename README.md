@@ -7,7 +7,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/tdunkley/module-4-project?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/tdunkley?style=social)
 
-Telco Customer Churn is a project that attempts to group players of similar abilities into performance buckets. 29 Per Game attrbiutes (Field Goal Attempts Per Game, Field Goal Percentage, etc.) and 26 Advanced attributes (Player Efficiency Rating, True Shooting Percentage, etc) were web scraped from https://www.basketball-reference.com. In addition, several player awards lists were also scraped to contribute to the analysis, including NBA Most Valuable Player, NBA Rookie of the Year and NBA Defensive Player of the Year.
+Telco Customer Churn is a project that attempts to analyze when a customer ceases his or her relationship with the company Telco. All businesses in the consumer market and enterprise sectors have to deal with churn as it could end up affecting the company revenue numbers and thereby influence policy decisions. Churn could happen due to many different reasons and churn analysis helps to identify the cause (and timing) of it thereby opening up opportunities to implement effective retention strategies. The full cost of customer churn includes both lost revenue and the marketing costs involved with replacing those customers with new ones. Reducing customer churn is a key business goal of every online business.
 
 
 ## Prerequisites
