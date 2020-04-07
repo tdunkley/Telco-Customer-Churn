@@ -61,4 +61,4 @@ If you want to contact me you can reach me at <tdunkley@gmail.com>.
 ## License
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
 
-This project uses the following license: [cluster license](<https://github.com/tdunkley/module-5-project/blob/master/LICENSE>).
+This project uses the following license: [telco license](<https://github.com/tdunkley/module-4-project/blob/master/LICENSE>).
